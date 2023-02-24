@@ -1,0 +1,85 @@
+DAFTAR ISI
+
+Halaman
+HALAMAN JUDUL							i
+
+BAB I	Menu Utama Sistem Gadai					1
+  1     Pegadaian Barang					1
+  2     Pembayaran						12
+  3     Lelang		 					22
+  4     Daftar Barang Gadai					25
+  5     Daftar Nasabah						26
+  6.    Pengembalian Barang Gadai				27
+
+
+BAB II	  Menu Data Nasabah					29
+  1     Data Kota						29
+  2     Data Wilayah		 				30
+  3     Data Jenis		 				31
+  4     Data Outlet		 				32
+  5     Data Nasabah	……..					35
+
+
+BAB III 	Menu Data Barang Gadai				43
+  1     Data Tipe						43
+  2     Data Satuan		 				44
+  3     Data Kategori		 				45
+  4     Data Produk		 				46
+  5     Data Gudang		 				47
+  6     Data Savety Box Gadai					48
+  7     Data Barang Gadai….					52
+
+BAB IV Menu Data Pegawai					55
+  1     Data Jabatan						55
+  2     Data Departemen		 				56
+  3     Data Outlet		 				57
+  4     Data Approval		 				60
+  5     Data Pegawai		 				63
+
+
+BAB V  Menu Data Pengaturan  Gadai				68
+  1     Golongan Pinjaman Gadai					68
+  2     Group Login		 				71
+  3     Group Form		 				72
+  4     Group Report		 				74
+  5     User Login		 				76
+  6     Aplikasi		 				80
+  7     Daftar Audit Trail		 			80
+
+
+BAB VI	  Menu Data Transaksi Gadai		 		81
+  1     Pegadaian Barang		     			81
+  2     Pembayaran		 				92
+  3     Lelang		 					102
+  4     Pengembalian Barang Gadai		 		105
+  5     Koreksi Status Lunas/Tutup Pegadaian Barang		107
+  6     Koreksi Status Lelang Pegadaian Barang			108
+
+
+BAB VI	I  Menu Data Transaksi Penjualan		 	109
+  1     Daftar Approval Lelang Dan Penjualan…..		 	109
+  2     Daftar Barang Dijual		 		 	111
+  3     Penjualan		 			 	112
+  4     Retur Penjualan		 			 	113
+
+
+BAB VIII Menu Laporan Gadai		   		 	114
+  1     Laporan Gadai		   				114
+  2     Laporan Pembayaran Gadai		 		115
+  3     Laporan Lelang Barang		 			116
+  4     Laporan Laba/Rugi Gadai		 			117
+  5     Laporan Analisa Gadai		 			118
+
+
+BAB IX Menu Laporan Penjualan		   			119
+  1     Laporan Periode Penjualan		   		119
+  2     Laporan Periode Retur Penjualan		 		120
+  3     Laporan Stok Penjualan		 			121
+
+
+BAB X  Menu Data Pendukung Nasabah		 		122
+  1     Data Nasabah Sebelum Jatuh Tempo		   	122
+  2     Follow-up Data Nasabah Sebelum Jatuh Tempo	 	124
+  3     Data Nasabah Sesudah Jatuh Tempo		   	126
+  4     Follow-up Data Nasabah Sesudah Jatuh Tempo		128
+
